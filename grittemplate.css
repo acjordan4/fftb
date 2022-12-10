@@ -33,14 +33,14 @@
     color: var(--accent-color);
   }
   
-  .grit .notes {
+  .granite .notes {
     margin: 0 0 25px 0; text-align: left;
     border-left: solid 100px var(--accent-color);
     padding-left: 5px; font: 9px/12px open sans;
     text-transform: uppercase;
   }
   
-  .grit .notes a {
+  .granite .notes a {
     font: bold 9px open sans; color: var(--accent-color);
     text-decoration: none; letter-spacing: 1px;
     margin-right: 2px;
